@@ -1,5 +1,7 @@
 # Projeto Android
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+
 Este é um projeto de estudo focado na criação de uma página web estática e responsiva, utilizando HTML5 e CSS3. O tema da página é a história do mascote do sistema operacional Android.
 
 ## Descrição
@@ -21,6 +23,8 @@ O site consiste em uma única página que replica o layout de um artigo de blog.
 
 Para visualizar o projeto, basta clonar o repositório e abrir o arquivo `index.html` em qualquer navegador web moderno.
 
-## Observação sobre o Versionamento
 
-Estou ciente de que a prática recomendada no desenvolvimento de software é a criação de branches separadas (`develop`, `feature`, etc.) para novas funcionalidades e correções. No entanto, como este é um projeto de estudo simples e de escopo limitado, optei por realizar todos os commits diretamente na branch `main` para simplificar o processo.
+
+---
+
+[← Portfólio de Kleber Amaro](https://github.com/Kleber720) · [Todos os repositórios](https://github.com/Kleber720?tab=repositories)
